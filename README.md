@@ -4,7 +4,7 @@ A music recommendation system built with Machine Learning (KNN) and Flask, train
 
 ## Demo
 
-![Music Recommender](https://i.imgur.com/placeholder.png)
+> Live demo coming soon — run locally with the instructions below.
 
 ## How It Works
 
